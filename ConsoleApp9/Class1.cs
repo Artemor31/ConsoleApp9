@@ -7,6 +7,7 @@ namespace ConsoleApp9
         public void DoSmth()
         {
             Console.WriteLine("Hello world2!!!");
+
         }
     }
 }
